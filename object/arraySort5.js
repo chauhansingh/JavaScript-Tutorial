@@ -1,4 +1,6 @@
-//let say we have a list of string of our customer with spacific id and the id's are in string the there are 2 types of customer prime Customer and non prime Customer prime customer's id contains lowerCase String followed by dilimiter space and non prime customer contains number followed by dilimeter space, Our target is sort the Given List in which prime Members should come first in lexicographically order in case of tie use Ascci value to aggrange of first part of given string
+// create a function to sort a list of string (Given input List is array of Strings)
+//output should be sorted list
+
 
 let arr1= [
     '6xyz abcx okay',
